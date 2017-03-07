@@ -3,7 +3,7 @@
 - [개요](#개요)
 - [플러그인](#플러그인)
 - [설치 및 사용법](#설치-및-사용법)
-  - [NPM을-통한-Autotrack-로드](#NPM을-통한-Autotrack-로드)
+  - [NPM을 통한 Autotrack 로드](#NPM을-통한-Autotrack-로드)
   - [옵션 설정하기](#옵션-설정하기)
 - [고급  설정](#고급-설정)
   - [커스텀 빌드](#커스텀-빌드)
@@ -106,7 +106,7 @@ ga('send', 'pageview');
 - 플러그인`require` 문의 샘플 목록을 사용하려는 플러그인으로 대체하세요.
 - `path/to/autotrack.js`를 실제 서버에서 제공되고 있는 `autotrack.js` 실제 위치로 변경 하세요
 
-**참고:** [analytics.js plugin system] (https://developers.google.com/analytics/devguides/collection/analyticsjs/using-plugins)은 비동기적으로 로드 된 스크립트를 지원 하도록 설계 되었으므로, 'autotrack.js` 는 analytics.js 이전 또는 이후에 로드해도 됩니다. `autotrack.js` 라이브러리가 개별적으로 로드되거나 나머지 JavaScript 코드와 번들로 묶여 있는지 여부는 중요하지 않습니다.
+**참고:** [analytics.js plugin system] (https://developers.google.com/analytics/devguides/collection/analyticsjs/using-plugins)은 비동기적으로 로드 된 스크립트를 지원 하도록 설계 되었으므로, `autotrack.js` 는 analytics.js 이전 또는 이후에 로드해도 됩니다. `autotrack.js` 라이브러리가 개별적으로 로드되거나 나머지 JavaScript 코드와 번들로 묶여 있는지 여부는 중요하지 않습니다.
 
 ### NPM을-통한-Autotrack-로드
 
