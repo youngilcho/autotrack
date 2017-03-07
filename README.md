@@ -106,7 +106,7 @@ ga('send', 'pageview');
 - 플러그인`require` 문의 샘플 목록을 사용하려는 플러그인으로 대체하세요.
 - `path/to/autotrack.js`를 실제 서버에서 제공되고 있는 `autotrack.js` 실제 위치로 변경 하세요
 
-**참고:** [analytics.js plugin system] (https://developers.google.com/analytics/devguides/collection/analyticsjs/using-plugins)은 비동기적으로 로드 된 스크립트를 지원 하도록 설계 되었으므로, 'autotrack.js `는 analytics.js 이전 또는 이후에 로드해도 됩니다. `autotrack.js` 라이브러리가 개별적으로 로드되거나 나머지 JavaScript 코드와 번들로 묶여 있는지 여부는 중요하지 않습니다.
+**참고:** [analytics.js plugin system] (https://developers.google.com/analytics/devguides/collection/analyticsjs/using-plugins)은 비동기적으로 로드 된 스크립트를 지원 하도록 설계 되었으므로, 'autotrack.js` 는 analytics.js 이전 또는 이후에 로드해도 됩니다. `autotrack.js` 라이브러리가 개별적으로 로드되거나 나머지 JavaScript 코드와 번들로 묶여 있는지 여부는 중요하지 않습니다.
 
 ### NPM을-통한-Autotrack-로드
 
@@ -266,7 +266,7 @@ Autotrack은 잠재적으로 브라우져에서 지원되지 않는 코드에 �
 
 ## 번역
 
-다음 번역은 커뮤니티에서 자발적으로 제공 한 것입니다. 이 번역들은 비공식적이며 부정확하거나 현재 유효하지 않은 정보를 담고 있을 수 있습니다..:
+다음 번역은 커뮤니티에서 자발적으로 제공 한 것입니다. 이 번역들은 비공식적이며 부정확하거나 현재 유효하지 않은 정보를 담고 있을 수 있습니다.:
 
 * [중국어](https://github.com/stevezhuang/autotrack/blob/master/README.zh.md)
 * [프랑스어](https://github.com/DirtyF/autotrack/tree/french-translation)
@@ -275,7 +275,7 @@ Autotrack은 잠재적으로 브라우져에서 지원되지 않는 코드에 �
 
 특정 번역본에 문제가 있는 경우 적절한 번역본을 제출하십시오. 자신의  번역을 제출하려면 다음 단계를 따르십시오.:
 
-1. 이 repository를 Fork 하세요..
+1. 이 repository를 Fork 하세요.
 2. Fork 한 저장소의 설정에서 [이슈를 허용 하세요.](http://programmers.stackexchange.com/questions/179468/forking-a-repo-on-github-but-allowing-new-issues-on-the-fork).
 3. 문서 파일을 제외한 모든 파일을 제거 하세요.
 4. 번역된 버젼으로 문서 파일들을 업데이트 하세요.
